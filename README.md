@@ -31,10 +31,8 @@ This project focuses on analyzing bookstore sales data through structured queryi
 
 ## 📎 Project Files
 
-- [`sql_book_sales_analysis.sql`](https://github.com/bindurag1807/sql-data-analysis-books-sales/blob/main/sql_book_sales_analysis.sql) – Main SQL script with:
-  - Table creation
-  - Sample data (optional)
-  - Analysis queries
+[Download SQL Project File](https://github.com/bindurag1807/sql-data-analysis-books-sales/raw/main/sql_book_sales_analysis.sql)
+
 
 ---
 
