@@ -19,9 +19,5 @@ This project focuses on analyzing bookstore sales data through structured queryi
 
 
 
-## 📬 Feedback & Contact
 
-- Open an [issue](https://github.com/bindurag1807/sql-data-analysis-books-sales/issues)  
-- Visit my [Portfolio Website](https://velvety-pie-dbc44f.netlify.app)  
-- Connect on [LinkedIn](https://www.linkedin.com/in/gadhe-bindura)
 
